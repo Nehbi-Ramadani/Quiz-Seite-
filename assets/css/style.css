@@ -1,0 +1,29 @@
+.quiz-container {
+    max-width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    color: aliceblue;
+    background-color: black;
+    padding: 15px 25px;
+    margin: 20px;
+}
+
+.correct {
+    background-color: green;
+    border-radius: 3px solid green ;
+}
+
+.incorrect {
+    background-color: red;
+}
